@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://seenusharma.github.io/csb-fzvbm8/static/js/main.3c9b9c6c.chunk.js",
+    "main.js.map": "https://seenusharma.github.io/csb-fzvbm8/static/js/main.3c9b9c6c.chunk.js.map",
+    "runtime-main.js": "https://seenusharma.github.io/csb-fzvbm8/static/js/runtime-main.4921c12b.js",
+    "runtime-main.js.map": "https://seenusharma.github.io/csb-fzvbm8/static/js/runtime-main.4921c12b.js.map",
+    "static/js/2.ed91ff3b.chunk.js": "https://seenusharma.github.io/csb-fzvbm8/static/js/2.ed91ff3b.chunk.js",
+    "static/js/2.ed91ff3b.chunk.js.map": "https://seenusharma.github.io/csb-fzvbm8/static/js/2.ed91ff3b.chunk.js.map",
+    "index.html": "https://seenusharma.github.io/csb-fzvbm8/index.html",
+    "static/js/2.ed91ff3b.chunk.js.LICENSE.txt": "https://seenusharma.github.io/csb-fzvbm8/static/js/2.ed91ff3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4921c12b.js",
+    "static/js/2.ed91ff3b.chunk.js",
+    "static/js/main.3c9b9c6c.chunk.js"
+  ]
+}
